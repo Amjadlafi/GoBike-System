@@ -1,4 +1,3 @@
-# GoBike-System
 # Ford-GoBike-System-Data
 This was one of the projects I worked at as part of Udacity Data Analyst Nanodegree Course.
 
